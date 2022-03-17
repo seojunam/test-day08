@@ -1,0 +1,14 @@
+package day02;
+
+import java.util.Scanner;
+
+public class EX04 {
+  public static void main(String[] args) {
+	Scanner ia =new Scanner (System.in);
+	String name;
+	System.out.print("당신의 이름은 무엇입니까??");
+	name =ia.next();
+	
+	System.out.println(name+"국어점수:"+100);
+}
+}

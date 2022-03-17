@@ -1,0 +1,16 @@
+package day02;
+
+public class EX02 {
+    public static void main(String[] args) {
+	/*100 =상수화 고정되있는 값
+	 final 값을 변환시키지 않는다
+	 */
+   final double PI =3.14; 	
+   final String KOREA ="대한민국";
+   //KOREA ="미국";
+   System.out.println("KOREA:"+KOREA);
+   
+   
+   
+}
+}

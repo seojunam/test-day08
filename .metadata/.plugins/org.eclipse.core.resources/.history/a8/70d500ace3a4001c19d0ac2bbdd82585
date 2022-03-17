@@ -1,0 +1,25 @@
+package day01;
+
+public class Ex01 {
+ public static void main(String[] args) {
+	 //출력하는 기능
+	 /*
+	  * 여려 줄 주석
+	  */
+	System.out.println("하이!!");
+	System.out.print("학원에서 내용 추가");
+	System.out.print("자바 시간입니다!");
+	System.out.println("내용 추가");
+	System.out.println("집에서 추가");
+	
+	/*
+	 \n :엔더
+	 \t:tab크기만큼 커서를 오른쪽으로 이동
+	 \" :"(큰따옴표) 표현
+	 \\: \하나만 표현
+	 */
+	System.out.println("안\n녕\n하\n세\n요");
+	System.out.println("1\n123\n1234\n2333\n2333");
+	System.out.println("  \" \\  ");
+ }
+}

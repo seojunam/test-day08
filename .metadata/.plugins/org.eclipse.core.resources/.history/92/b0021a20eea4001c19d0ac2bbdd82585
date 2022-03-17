@@ -1,0 +1,20 @@
+package day01;
+
+public class Ex02 {
+ public static void main(String[] args) {
+	System.out.println(100+100);
+	System.out.println(100.123+100);
+	
+	System.out.println("백"+100+"\n"+100);
+	System.out.println("100"+100);
+	
+	
+	
+	System.out.println("이름 \t나이 \t전화번호 \t회비");
+	System.out.println("홍길동\t\""+15+"\"\""+3323+"-"+1234+"\t\\"+20000);
+	System.out.println("고길동\t\""+15+"\"\""+2238+"-"+3444+"\t\\"+30000);
+	System.out.println("고길동\t\""+15+"\"\""+2554+"-"+7654+"\t\\"+50000);
+	
+	
+} 
+}
