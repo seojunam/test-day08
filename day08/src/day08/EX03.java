@@ -24,7 +24,10 @@ public class EX03 {
 		
 		Iterator it =set.iterator();
 		while(it.hasNext()) {
-			System.out.println(it.next());
+			
+			
+			
+			//System.out.println(it.next());//()소괄호가 있으면 어떠한 기능이 있구나 생각
 		}
 		
 		/*
